@@ -1,8 +1,10 @@
 # AI-Powered-rehabilitation-assistant-
-🩺 Overview
+
+#🩺 Overview
 RehabAI is an AI-powered rehabilitation assistant that helps patients perform physiotherapy exercises correctly at home. Using computer vision and AI-based pose detection, the application analyzes body movements in real time, provides instant posture correction, counts repetitions automatically, and tracks recovery progress.
 Our goal is to make rehabilitation more accessible, accurate, and affordable while reducing the need for continuous in-person supervision.
-❗ Problem Statement
+
+#❗ Problem Statement
 Millions of patients recovering from injuries, surgeries, strokes, or neurological conditions require regular physiotherapy.
 However, they face several challenges:
 Lack of physiotherapist supervision at home
@@ -13,7 +15,8 @@ Expensive and frequent hospital visits
 Difficulty tracking rehabilitation progress
 Limited access to physiotherapy in rural areas
 These issues reduce the effectiveness of rehabilitation and increase recovery time.
-💡 Solution
+
+#💡 Solution
 RehabAI acts as a virtual physiotherapy assistant.
 Using AI-powered pose estimation and the device camera, it:
 Detects body posture in real time
@@ -24,7 +27,8 @@ Tracks patient performance
 Generates progress reports
 Encourages consistent rehabilitation through reminders
 This enables patients to perform physiotherapy safely from home while allowing therapists to monitor recovery remotely.
-✨ Features
+
+#✨ Features
 
 🔐 User Authentication
 
