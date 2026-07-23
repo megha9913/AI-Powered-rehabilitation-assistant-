@@ -51,6 +51,12 @@ body.dark .text-slate-400 {
     color: #cbd5e1 !important;
 }
 
+body.dark .status-pill,
+body.dark .toast {
+    background-color: rgba(15, 23, 42, 0.94) !important;
+    border-color: rgba(148, 163, 184, 0.2) !important;
+}
+
 body.dark .bg-slate-950 {
     background-color: #020617 !important;
 }
@@ -112,6 +118,12 @@ body.dark .bg-slate-950 {
 
 .profile-avatar {
     animation: float-avatar 3.2s ease-in-out infinite;
+}
+
+.status-pill {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 
 @keyframes float-avatar {
@@ -206,6 +218,12 @@ button {
 
 button:hover {
     transform: translateY(-1px);
+}
+
+button:focus-visible,
+a:focus-visible {
+    outline: 3px solid rgba(47, 150, 255, 0.35);
+    outline-offset: 3px;
 }
 
 .toast-stack {
